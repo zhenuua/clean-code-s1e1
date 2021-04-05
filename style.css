@@ -10,15 +10,15 @@ body {
     display: block;
     text-align: right;
 }
-.aaa img {
+.eisenhower-matrix-info img {
     width: 100%;
 }
-.aaa .more-inf {
+.eisenhower-matrix-info .more-inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+.eisenhower-matrix-info { text-align: center;
 }
 }
 .centered-main-page-element {
