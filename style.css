@@ -125,7 +125,8 @@ li > input[type="text"] {
 li > button.delete:hover {
     color: #cf2323;
 }
-button.delete img {
+button.delete
+img {
     height: 2em;
     transform: rotateZ(45deg);
     transition: transform 200ms ease-in;
@@ -136,7 +137,8 @@ img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#completed-tasks 
+label {
     text-decoration: line-through;
     color: #888;
 }
